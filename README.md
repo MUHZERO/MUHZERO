@@ -16,7 +16,7 @@
 🔹 Creator of **LMS apps** & **LMS admin panels**  
 🔹 Interested in **Neovim, and caching strategies**  
 
-🌍 **Website**: [Zendle](https://zendle.com)  
+🌍 **Website**: [Zendle](https://zendle.net)  
 📫 **Email**: [support@dripgoal.com](mailto:muhdroid1@gmail.com)  
 
 ---
