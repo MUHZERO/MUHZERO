@@ -17,7 +17,7 @@
 🔹 Interested in **Neovim, and caching strategies**  
 
 🌍 **Website**: [MuhDroid](https://muhdroid.com)  
-📫 **Email**: [support@dripgoal.com](mailto:muhdroid1@gmail.com)  
+📫 **Email**: [muhdroid1@gmail.com](mailto:muhdroid1@gmail.com)  
 
 ---
 
